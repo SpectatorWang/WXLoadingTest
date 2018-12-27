@@ -1,0 +1,18 @@
+{
+    "deviceOrientation": "portrait",
+    "networkTimeout": {
+        "request": 5000,
+        "connectSocket": 5000,
+        "uploadFile": 10000,
+        "downloadFile": 10000
+    },
+    "navigateToMiniProgramAppIdList": [
+        "wx8abaf00ee8c3202e"
+    ],
+    "subpackages": [
+        {
+            "name": "setting",
+            "root": "src/settings.js"
+        }
+    ]
+}
